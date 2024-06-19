@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-funcional-huber:lib"
+
+    - path: "./test"
+      component: "haskell-funcional-huber:test:haskell-funcional-huber-test"
